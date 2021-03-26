@@ -1,0 +1,59 @@
+.tweet {
+  margin-top: 5%;
+  border-width: 5px;
+  border-style: solid;
+  padding: 1%;
+}
+
+.tweet:hover {
+  box-shadow: 5px 5px #bdbdbd;
+}
+
+article header {
+  height: min-content;
+  background-image: none;
+  background-color: #f4f1ec;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-bottom: 3%;
+}
+
+article span {
+  font-family: "Source Sans Pro";
+  margin: 0%;
+  margin-left: 2%;
+  margin-right: auto;
+}
+
+article em {
+  margin-left: 2%;
+  margin-bottom: 0%;
+  margin-top: 0%;
+  margin-right: 0%;
+  opacity: 30%;
+  font-weight: bold;
+}
+
+article em:hover {
+  opacity: 100%;
+}
+
+article p {
+  margin: 1%;
+}
+
+article footer {
+  display: flex;
+  border-top-style: solid;
+  border-width: 5px;
+  margin: 1%;
+  padding: 0.2%
+}
+
+/* Desktop styles */
+@media only screen and (min-width: 1024px) {
+  article header {
+    width: 97%;
+  }  
+}
+  
