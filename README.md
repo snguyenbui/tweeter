@@ -29,3 +29,7 @@ A seemingly random 140 character limit to really make you struggle to fit comple
 If you try to break that limit despite the red number or send an empty tweet to take up server space, there's an extra warning message to tell you to fix that.
 
 !["Screenshot of error message"](/docs/empty-tweet-error.png)
+
+You don't have to worry about seeing tweets from weeks ago sprodically (why is that even a Twitter feature) because all tweets show up in chronological order
+
+!["Screenshot of timeline"](/docs/timeline.png)
