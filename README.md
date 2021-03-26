@@ -15,3 +15,17 @@ This repository is the starter code for the project: Students will fork and clon
 
 - Express
 - Node 5.10.x or above
+
+### Introduction
+
+Did you ever want to go back to a simpler time when arbitrary charater limits were even smaller? Back when people shared a little bit less of their thoughts online? When most things didn't track what you were looking at?
+
+Look no further than this faithful blast from the past call Tweeter!
+
+#### Features
+
+A seemingly random 140 character limit to really make you struggle to fit complex thoughts and a nice counter to show you how much of that limit you've used.
+
+If you try to break that limit despite the red number or send an empty tweet to take up server space, there's an extra warning message to tell you to fix that.
+
+!["Screenshot of error message"](/docs/empty-tweet-error.png)
