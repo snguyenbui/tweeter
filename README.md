@@ -33,3 +33,7 @@ If you try to break that limit despite the red number or send an empty tweet to 
 You don't have to worry about seeing tweets from weeks ago sprodically (why is that even a Twitter feature) because all tweets show up in chronological order
 
 !["Screenshot of timeline"](/docs/timeline.png)
+
+Works on screens of all sizes
+
+!["Screenshot of small screens"](/docs/mobile.png)
